@@ -18,7 +18,7 @@
 <!-- ===================== ABOUT + ANIMATION ===================== -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
 
 <h3>👨‍💻 About Me</h3>
 
@@ -29,14 +29,15 @@
 - 📚 Exploring modern frameworks and tools  
 
     </td>
-    <td width="60%" align="right" valign="top">
+    <td width="50%" align="right" valign="top">
       <img 
         src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-        width="240" 
+        width="330" 
         alt="Coding Animation"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
