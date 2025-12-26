@@ -1,8 +1,14 @@
-## Hi there 👋
+
 # Hi there 👋, I'm Pattu Rajan M
 
 🎓 Computer Science Engineering Student  
 💻 Aspiring Web Developer | Tech Enthusiast  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pattu-rajan-61b9b6299/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -19,17 +25,15 @@
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/express-js.png"/>
+  <img src="https://img.icons8.com/color/48/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/fluency/48/flask.png" alt="Flask"/>
 </p>
 
 ---
@@ -38,7 +42,7 @@
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/anaconda--v2.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48"/>
   <img src="https://img.icons8.com/fluency/48/github.png"/>
   <img src="https://img.icons8.com/color/48/pycharm--v1.png"/>
   <img src="https://img.icons8.com/color/48/apache-netbeans.png"/>
