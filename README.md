@@ -29,7 +29,7 @@
 - 📚 Exploring modern frameworks and tools  
 
     </td>
-    <td width="40%" align="right" valign="top">
+    <td width="60%" align="right" valign="top">
       <img 
         src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
         width="240" 
