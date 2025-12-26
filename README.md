@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there 👋, I'm Ganesh (Pattu Rajan)
+# Hi there 👋, I'm Pattu Rajan M
 
 🎓 Computer Science Engineering Student  
 💻 Aspiring Web Developer | Tech Enthusiast  
