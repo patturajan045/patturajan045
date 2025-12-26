@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Pattu%20Rajan%20M&fontSize=40&fontColor=ffffff&desc=Computer%20Science%20Engineering%20Student%20%7C%20Web%20Developer&descSize=16&descAlignY=65)
 
 <!-- ===================== INTRO ===================== -->
-<h3 align="center">Aspiring Software Developer | Python • Django • Flask</h3>
+<h3 align="center">Aspiring Full Stack Web Developer | Python • Django • Flask</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pattu-rajan-61b9b6299/" target="_blank">
@@ -32,7 +32,7 @@
     <td width="50%" align="right" valign="top">
       <img 
         src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-        width="330" 
+        width="350" 
         alt="Coding Animation"/>
     </td>
   </tr>
